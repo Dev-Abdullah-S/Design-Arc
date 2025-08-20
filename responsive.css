@@ -1,0 +1,331 @@
+@media screen and (max-width: 480px) {
+      .links{
+        display: none;
+      }
+      .bars{
+        display: block;
+      }
+      .bars i{
+        font-size: 6vw;
+        
+      }
+      nav{
+        padding-top:18.33vw ;
+        padding-left: 5.00vw;
+        padding-right: 5.00vw;
+        padding-bottom: 8.33vw;
+      }
+      .nav-logo{
+        font-size: 2.92vw;
+      }
+      .btn-sign button{
+        padding: 1.04vw 4.38vw;
+        font-size: 2.08vw;
+      }
+      .hero{
+        text-align: center;
+        padding-bottom: 45.31vw;
+      }
+      .hero-box1 h1{
+        font-size: 10.00vw;
+      } 
+      .txt-hero{
+         display: none;
+      }
+      #logo-br{
+        display: none;
+      }
+      .hero-box2-btn{
+        display: none;
+      }
+      .rotate-container{
+        display: none;
+      }
+      .hero-btn1{
+        font-size: 3vw !important;
+      }
+      .hero-btn2{
+        font-size: 3vw !important;
+      }
+      .h-img3{
+        display: none;
+      }
+      .h-img1{
+        width: 70vw;
+        height: 110vw;
+      }
+      .h-img2{
+         width: 47.38vw;
+         height: 65.13vw;
+         transform: translateX(47vw);
+      }
+      .txt-hero2{
+        margin-top:5.63vw ;
+        display: block;
+      }
+      .txt-hero2 p{
+            font-size: 3.75vw;
+      }
+    .hero-buttons{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 3.96vw;
+        margin: 4.38vw 8.13vw;
+    }
+    .hero-btn1{
+        padding: 2.08vw  4.79vw;
+    }
+    .hero-btn2{
+        padding:2.08vw 5.2vw ;
+    }
+    .txt-hero2 h4{
+        font-size: 3.75vw;
+        margin-bottom: 0px;
+    }
+    .hero-bottom-txt{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+        padding: 0px;
+    }
+    .hero-hr{
+         width: 52.71vw;
+    }
+    .about{
+        padding: 45.31vw 5.00vw;
+    }
+    .about-heading{
+        display: none;
+
+    }
+    .about-heading2{
+        display: block;
+        text-align: center;
+    }
+    .about-heading2 h3{
+          font-size: 5.83vw;
+          font-weight: 600;
+    }
+    .about-heading2 span{
+        color: #FB7715;
+    }
+    .about-heading2 p{
+        font-size: 3.75vw;
+        font-weight: 300;
+    }
+    .about-img1{
+        width: 77.04vw;
+        height: 110.63vw;
+    }
+    .about-img2{
+        height:  60vw;
+        width:45.21vw ;
+        top: 60.79vw;
+        left: 52vw;
+    }
+    .about-txt{
+        text-align: center;
+        margin-top: 14.79vw;
+    }
+    .about-txt p{
+         font-size: 3.75vw;
+    }
+    .about-btn{
+        padding: 2.08vw 6.25vw;
+        font-size: 3.75vw;
+    }
+    .what-whe-do{
+        
+        padding-top: 45.31vw;
+        padding-bottom: 45.31vw;
+        padding-left:5.00vw ;
+        padding-right: 2.3vw;
+    }
+     .what-we-do-txt h3{
+                 font-size: 5.83vw;
+     }
+     .what-we-do-txt p{
+           font-size: 3.75vw;
+     }
+     .who-we-are-img{
+        display: none;
+     }
+     .who-we-are-mobil{
+        display: block;
+        width:66.25vw ;
+        width:89.58vw ;
+        margin-bottom: 12.50vw;
+        
+     }
+     .about-col-txt h4{
+           font-size: 3.75vw;
+     }
+     .about-col-txt p{
+           font-size: 2.08vw;
+     }
+     .our-work-btn{
+        display: none;
+     }
+     .our-work{
+        padding-top: 45.31vw;
+        padding-bottom: 45.31vw;
+        padding-left:5.00vw ;
+        padding-right: 2.3vw;
+     }
+     .work-heading-1{
+        text-align: center;
+        margin-bottom: 10.83vw;
+     }
+     .our-work-header{
+        display: block;
+     }
+     .section-mobile-heading-h3{
+        font-size:5.83vw !important; 
+     }
+     .section-mobile-heading-p{
+        font-size:3.75vw !important;
+     }
+     .work-mobil-pre-img{
+        height: 87.29vw !important;
+     }
+     .work-txt-after-img{
+        margin-top: 6.46vw ;
+        margin-bottom:11.46vw ;
+     }
+     .work-txt-after-img h4{
+          font-size: 5.83vw;
+     }
+     .work-txt-after-img p{
+          font-size: 2.08vw;
+     }
+     .work-btn-2{
+        padding:2.08vw  5.83vw ;
+        font-size: 3.75vw;
+     }
+     .work-img-col{
+        margin: 11.46vw 0vw;
+     }
+     .view-btn-mobile {
+        
+        color: white;
+        background-color: #FB7715;
+        border: 1px solid #FB7715;
+        padding: 2.08vw 6.46vw  ;
+        font-size: 3.75vw;
+        font-weight: 600;
+     }
+     .btn-view-mobile{
+        display: block;
+        display: flex;
+        justify-content: center;
+     }
+     .clients-review{
+        padding-top: 45.31vw;
+        padding-bottom: 45.31vw;
+        padding-left:5.00vw ;
+        padding-right: 5.00vw;
+     }
+     .client-main{
+        flex-direction: column;
+        gap: 6.25vw;
+     }
+     
+     .client-box{
+        width: 100%;
+        padding: 7.29vw 6.25vw;
+     }
+     .client-box p{
+        font-size: 3.33vw;
+     }
+     .client-img-box{
+        width: 15.00vw;
+        height: 15.00vw;
+     }
+     .client{
+        gap: 6.67vw;
+     }
+     .client h4{
+        font-size: 4.17vw;
+     }
+     .client span i{
+        font-size: 3vw;
+     }
+     .our-work2{
+        text-align: center;
+     }
+     .work-container h4{
+          font-size: 4.58vw;
+          padding-top:6.46vw  ;
+     }
+     .work-container p{
+          font-size: 3.33vw;
+          padding-bottom: 10.83vw;
+     }
+     .get-in-touch{
+        padding-top: 45.31vw;
+        padding-bottom: 45.31vw;
+        padding-left:5.00vw ;
+        padding-right: 2.3vw;
+     }
+     .get-in-touch-text{
+        display: none;
+     }
+     .get-in-touch-text-mobile{
+        display: block;
+        text-align: center;
+     }
+     .Contact-container{
+        height: 85.63vw;
+     }
+     .input1 input{
+            height: 7.08vw;
+     }
+     .input1 h4{
+        font-size: 4.17vw;
+     }
+     .txt-area h4{
+         font-size: 4.17vw;
+     }
+     .txt-area textarea{
+        height: 72.50vw;
+     }
+     .text-button{
+        display: flex;
+        justify-content: center;
+        padding: 3.54vw 7.50vw;
+        font-size: 5.00vw;
+     }
+     .text-button button{
+        
+        padding: 3.54vw 7.50vw;
+        font-size: 5.00vw;
+     }
+     footer{
+        padding-top: 45.31vw;
+        padding-left:5.00vw ;
+        padding-right: 2.3vw;
+        text-align: center;
+     }
+     footer h3{
+        font-size: 7.92vw;
+        margin-bottom: 24.17vw;
+     }
+     .footer-links h4{
+        font-size: 5.83vw;
+        margin: 10.83vw 0vw;
+     }
+      .links-1 a{
+            font-size: 4.17vw;
+      }
+      .links-1{
+        gap: 6.04vw;
+        margin-bottom: 54.58vw
+      }
+      .copy-right h3{
+        font-size:4.17vw ;
+      }
+  }
+  
